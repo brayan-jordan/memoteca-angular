@@ -1,0 +1,22 @@
+{
+  "pensamentos": [
+    {
+      "id": 1,
+      "conteudo": "I Love Angular",
+      "autoria": "Brayan",
+      "modelo": "modelo1"
+    },
+    {
+      "id": 2,
+      "conteudo": "I Love JavaScript",
+      "autoria": "Vinicius",
+      "modelo": "modelo2"
+    },
+    {
+      "id": 3,
+      "conteudo": "I Love NodeJS",
+      "autoria": "Jordan",
+      "modelo": "modelo3"
+    }
+  ]
+}
