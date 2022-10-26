@@ -12,13 +12,19 @@
   </p>
 
   <div class="acoes">
-    <button class="botao-editar">
+    <button
+      class="botao-editar"
+      routerLink="/pensamentos/editarPensamento/{{ pensamento.id }}"
+    >
       <img
         src="../../../../assets/imagens/icone-editar.png"
         alt="Icone de edição"
       />
     </button>
-    <button class="botao-excluir">
+    <button
+      class="botao-excluir"
+      routerLink="/pensamentos/excluirPensamento/{{ pensamento.id }}"
+    >
       <img
         src="../../../../assets/imagens/icone-excluir.png"
         alt="Icone de excluir"
