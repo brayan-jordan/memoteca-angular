@@ -8,7 +8,7 @@
     },
     {
       "id": 2,
-      "conteudo": "I Love JavaScripta",
+      "conteudo": "I Love JavaScript",
       "autoria": "Vinicius",
       "modelo": "modelo2"
     },
@@ -17,12 +17,6 @@
       "conteudo": "I Love NodeJS",
       "autoria": "Jordan",
       "modelo": "modelo3"
-    },
-    {
-      "conteudo": "asdsad",
-      "autoria": "asdsada",
-      "modelo": "modelo1",
-      "id": 4
     }
   ]
 }
